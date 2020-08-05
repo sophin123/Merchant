@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color> //Top action bar
+    <color name="colorAccent">#9E9E9E</color> // Status Bar
+    <color name="toolbarIconColor">@color/textColorPrimary</color>
+    <color name="loginPageBackgroundColor">#757575</color>
+    <color name="productGridBackgroundColor">#FFFFFF</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textInputOutlineColor">#FBB8AC</color>
+</resources>
