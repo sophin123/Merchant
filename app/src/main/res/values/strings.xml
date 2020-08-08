@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GameShop</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="shr_product_title">Product Title</string>
+    <string name="shr_product_description">product descirption</string>
+    <string name="pre_order">Pre-Order</string>
+    <string name="shr_product_price">Price</string>
+    <string name="add_to_wishList">Add to Wishlist</string>
+    <string name="shr_search_title">search</string>
+    <string name="shr_filter_title">filter</string>
+    <string name="MerchShop">MerchShop</string>
 </resources>
